@@ -53,3 +53,5 @@ The disc mounts automatically and is ejected when extraction completes.
 Faithful reconstruction of the original Macromedia Director-based game
 (SIMPMAIN), including its palette banks, record/hold/delete editing model,
 Krusty shuttle transport, and sound system — rebuilt as a native .NET 8 app.
+
+Made with [Devin](https://devin.ai) — the AI software engineer from Cognition.

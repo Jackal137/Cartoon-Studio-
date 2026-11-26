@@ -44,8 +44,6 @@ The disc mounts automatically and is ejected when extraction completes.
 
 ## Notes
 
-- The **base disc** contains 15 toons; a later patched install has 20 (the 5
-  extra came from an update). Extracting the ISO gives you the 15 on-disc toons.
 - Expect a few minutes for extraction depending on disc speed.
 - The editor plays and exports your cartoons; all progress saves as toon files
   inside the generated `app/toons/` folder.

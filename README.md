@@ -47,6 +47,10 @@ The disc mounts automatically and is ejected when extraction completes.
 - Expect a few minutes for extraction depending on disc speed.
 - The editor plays and exports your cartoons; all progress saves as toon files
   inside the generated `app/toons/` folder.
+- **The extractor can be deleted once extraction completes** — it isn't needed
+  at runtime. Removing it leaves a ~157 MB install: `extracted/` assets (~85 MB)
+  + `app/` data (~3 MB) + `CartoonStudio.exe` (~69 MB, .NET runtime bundled).
+  Keep it only if you plan to re-extract another game copy.
 
 ## Credits
 
